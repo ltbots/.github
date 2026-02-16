@@ -34,7 +34,7 @@ This project is split into focused repos by responsibility:
 ## Screenshots
 
 <p>
-  <img src="screenshot/img1.png" width="20%" alt="Screenshot 1">
-  <img src="screenshot/img2.png" width="20%" alt="Screenshot 2">
-  <img src="screenshot/img3.png" width="20%" alt="Screenshot 3">
+  <img src="../screenshot/img1.png" width="25%" alt="Screenshot 1">
+  <img src="../screenshot/img2.png" width="25%" alt="Screenshot 2">
+  <img src="../screenshot/img3.png" width="25%" alt="Screenshot 3">
 </p>
